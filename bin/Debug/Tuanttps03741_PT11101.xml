@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tuanttps03741_PT11101
+</name>
+</assembly>
+<members>
+<member name="T:Tuanttps03741_PT11101.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources._13267908_647285798757217_6035877564804252156_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources._258ee2700b8562b5d51ebf2117179b3d_XL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.Actions_session_exit_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.B5u0Gkp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.close_off_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.close_off_1281">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.ic_exit_to_app_48px_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.ic_exit_to_app_48px_1281">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.Kính_lúp_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.poly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Tuanttps03741_PT11101.My.Resources.Resources.poly__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

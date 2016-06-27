@@ -1,0 +1,17 @@
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\bin\Debug\Tuanttps03741_PT11101.exe.config
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\bin\Debug\Tuanttps03741_PT11101.exe
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\bin\Debug\Tuanttps03741_PT11101.pdb
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\bin\Debug\Tuanttps03741_PT11101.xml
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.vbprojResolveAssemblyReference.cache
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.Resources.resources
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.vbproj.GenerateResource.Cache
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.exe
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.xml
+c:\users\tuancartoon\documents\visual studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.pdb
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.frmQuanly.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.frmXem.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.frmnhap.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.Tuanttps03741.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.frmTensv.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.frmLogin.resources
+C:\Users\Tuancartoon\Documents\Visual Studio 2015\Projects\Tuanttps03741_PT11101\Tuanttps03741_PT11101\obj\Debug\Tuanttps03741_PT11101.frmSanpham.resources
